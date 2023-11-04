@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "cy:run":"npx cypress run"
+  },
   "dependencies": {
     "cypress": "^13.1.0"
   }
